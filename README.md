@@ -1,6 +1,8 @@
 # UNLV Political Science Math Introduction
 
-This repository contains a draft of the UNLV political science math introduction.
+This repository contains a draft of the UNLV political science math introduction. This project's purpose is to be a helpful guide for incoming political science students at UNLV. It will take readers through the basic math skills that would help them as they go into their research methods courses (PSC 701 and 702). As such, the document will have relevant subject matter for both courses. This document can also act as a reference for UNLV political science students who have already taken the relevant methods courses but would like a math review.
+
+**Please note: this repository is a work in progress.** I will update this as I find the time. My goal is to work on this in spare office hours I have as the department methods TA.
 
 ## The `math_intro` Folder
 
