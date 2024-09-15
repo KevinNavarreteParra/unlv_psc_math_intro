@@ -1,0 +1,143 @@
+---
+title: "Introduction to Math Outline"
+author: "Kevin Navarrete-Parra"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+
+### **Outline for "Introduction to Quantitative Methods for Political Science Graduate Students"**
+
+---
+
+#### **1. Introduction**
+   - **Purpose of the Document**
+     - Overview of the primer’s role in preparing students for graduate-level research.
+     - Brief explanation of why quantitative methods are essential in political science.
+   - **What to Expect**
+     - Structure of the document: starting with basics and building toward more advanced concepts.
+
+---
+
+#### **2. Basic Mathematical Concepts**
+   - **Arithmetic Review**
+     - Fractions, decimals, percentages.
+     - Order of operations (PEMDAS).
+   - **Algebra Fundamentals**
+     - Variables, constants, expressions, and simple equations.
+     - Solving linear equations.
+     - Basic functions (e.g., linear, quadratic) and graphing.
+   - **Intro to Exponents and Logarithms**
+     - Definition and use of exponents.
+     - Logarithmic functions and their relevance in data analysis (e.g., log scales, growth rates).
+
+---
+
+#### **3. Introduction to Common Notation**
+   - **Understanding Symbols**
+     - Summation notation ($\Sigma$).
+     - Product notation ($\Pi$).
+     - Factorials ($!$).
+     - Basic set notation (e.g., $\epsilon$, $\mathbf{X}$, $\subset$).
+   - **Common Statistical Symbols**
+     - Mean ($\mu$), standard deviation ($\sigma$), variance ($\sigma^{2}$).
+     - Population parameters vs. sample statistics.
+     - Correlation ($r$), regression coefficients ($\beta$).
+   - **Introduction to Probability Notation**
+     - Probability of an event ($P$).
+     - Conditional probability $(P(A|B))$.
+   - **Greek Letters and Common Symbols**
+     - Table of Greek letters
+     - Table of Common Math Symbols
+
+---
+
+#### **4. Descriptive Statistics**
+   - **Measures of Central Tendency**
+     - Mean, median, and mode.
+   - **Measures of Dispersion**
+     - Range, variance, and standard deviation.
+     - Concept of distributions (normal, skewed).
+   - **Frequency Distributions**
+     - Histograms, bar charts, and frequency tables.
+   - **Introduction to Probability**
+     - Basic probability concepts: events, outcomes, likelihood.
+     - Probability distributions (normal, binomial, etc.).
+   
+---
+
+#### **5. Research Design Concepts**
+   - **What is Quantitative Research?**
+     - Differences between qualitative and quantitative research.
+     - Importance of data in empirical research.
+   - **Key Research Design Terms**
+     - Population vs. sample.
+     - Independent and dependent variables.
+     - Causality vs. correlation.
+     - Operationalization of concepts.
+   - **Types of Research Designs**
+     - Cross-sectional studies.
+     - Longitudinal (panel) studies.
+     - Experimental vs. observational research.
+
+---
+
+#### **6. Introduction to Data in R**
+   - **What is R?**
+     - Brief introduction to R and RStudio.
+     - Explanation of its utility for political science research.
+   - **Basic R Syntax**
+     - Data structures (vectors, matrices, data frames).
+     - Loading and viewing datasets.
+     - Using basic functions in R (e.g., `summary()`, `mean()`, `sd()`).
+   - **Basic Data Manipulation**
+     - Subsetting data.
+     - Cleaning data (e.g., dealing with missing values).
+   - **Basic Visualizations**
+     - Plotting data (histograms, bar charts, scatterplots).
+
+---
+
+#### **7. Inferential Statistics**
+   - **Basic Concepts in Inference**
+     - Sampling distributions and the Central Limit Theorem.
+     - Hypothesis testing: null vs. alternative hypotheses.
+     - Type I and Type II errors.
+     - P-values and significance levels.
+   - **Common Statistical Tests**
+     - T-tests.
+     - Chi-square tests.
+     - ANOVA (Analysis of Variance).
+     - Simple linear regression (basic introduction).
+
+---
+
+#### **8. Introduction to Regression Analysis**
+   - **What is Regression?**
+     - Understanding the concept of regression.
+     - Difference between correlation and causation.
+   - **Simple Linear Regression**
+     - Interpreting the coefficients.
+     - Goodness of fit (R-squared).
+   - **Multiple Regression (Brief Overview)**
+     - Introduction to the idea of controlling for multiple variables.
+
+---
+
+#### **9. Conclusion and Next Steps**
+   - **Connecting to Graduate Coursework**
+     - How these concepts relate to upcoming research methods classes.
+   - **Recommended Resources**
+     - Books, tutorials, and online resources for further learning.
+   - **Encouragement for Self-Study**
+     - Importance of continued practice with R and statistical concepts before and during coursework.
+
+---
+
+#### **10. Appendix: Additional Resources**
+   - **Useful Websites**
+     - Links to online tutorials, forums, and resources for learning R and statistics.
+   - **Recommended Books**
+     - List of textbooks and reference materials for further study.
+   - **Sample Datasets**
+     - Links to datasets for practice and exploration.

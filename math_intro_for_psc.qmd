@@ -1,0 +1,63 @@
+---
+title: "A Gentle Introduction to Math and Research for Social Science"
+author: "Kevin Navarrete-Parra"
+format: pdf
+editor: visual
+toc: true
+---
+
+# Introduction
+
+This document should serve as a basic primer for new political science students coming into the program at UNLV. In it, I will cover some basic math concepts that are important for understanding probability, statistics, and research design in general. I will also cover some basic research concepts that are important for conducting quantitative research--whether you're interested in international relations, comparative politics, or American politics.
+
+Given the variation in incoming students' exposure to math and research, I will start with the very basics and build up from there. If you're already familiar with some of the concepts I cover, feel free to skip ahead. There might also be some concepts I cover that might not be absolutely necessary. For those concepts that likely won't be covered in PSC 701 or 702, I'll add an asterisk (\*) to the section title to indicate that it's optional material.
+
+The only background in math I assume will be basic arithmetic. While I won't go too in-depth into the types of math, I'll provide as much context as I can to help you be more fluent in these concepts as you move forward in your studies. In other words, this isn't a probability or statistics textbook, but rather a primer to help you understand the concepts you'll encounter in your classes. Where possible, I'll point you to resources that can help you learn more about these concepts if they interest you.
+
+Importantly, remember that these things take time to learn. Don't get discouraged if you don't understand everything right away. We all struggle with these things at some point, so it's okay to not understand and it's okay to ask for help. The important thing is to keep trying and to keep learning!
+
+## Why Math and Research?
+
+Before I delve into the specifics, it's worth addressing a common question/comment people have when they first encounter math and quantitative research in political science: "Why do I need to learn this?" Or, for the more perplexed, "Since when is there math in political science? I thought this was about politics!"
+
+These are fair questions to ask. After all, political science has a reputation for not being very math-y. But the reality is that math and statistics are essential parts of the discipline--especially in recent decades. Some people will tell you about the "positivist turn in political science"[^1] that happened in the 1950s and 1960s, but that's not really the point I want to make here. The point is that math and statistics are tools that help us understand the world around us. They allow us to make informed inferences about social and political phenomena. Moreover, they help us understand the limitations of our knowledge and the uncertainty that comes with it. In short, math and statistics are tools that help us be better researchers, and they allow us to communicate our findings in a precise and informative manner.
+
+[^1]: For more information about what I mean by this, feel free to ask your professors in class. I'll eventually get to putting a citation here that better explains what I'm referring to.
+
+So, while it might seem daunting at first, learning math and statistics is an essential part of becoming a political scientist. It's not just about learning the tools, but also about learning how to think about the world in a more systematic and rigorous way. And, as you'll see, it can also be a lot of fun!
+
+# Arithmetic
+
+I know I said earlier that I assume basic arithmetic knowledge, but I think it's worth going over some things anyway to ensure everyone is on the same page. However, I won't spend too much time on this section, as I think most people will be familiar with these concepts. Consequently, this section should primarily serve as a refresher. If you're not already familiar with these concepts, don't worry! I'll explain them as best as I can, though I recommend seeking out additional resources if you're still having trouble.
+
+## Fractions, Decimals, and Percentages
+
+Fractions, decimals, and percentages are all ways of representing numbers. They're all related to each other, and you can convert between them pretty easily. Here's a quick rundown of each:
+
+### Fractions
+
+Fractions are numbers that represent a part of a whole. They're written as a numerator over a denominator, like so:
+
+$$
+\frac{1}{2}
+$$
+
+which corresponds to one-half. The **numerator** is the number on top, and the **denominator** is the number on the bottom. The numerator tells you how many parts you have, and the denominator tells you how many parts make up the whole.
+
+If you want to add fractions together, you need to make sure they have the same denominator. For example, if you want to add $\frac{1}{2}$ and $\frac{1}{4}$, you need to find a common denominator. In this case, a common denominator is 4, so you can rewrite $\frac{1}{2}$ as $\frac{2}{4}$. Then, you can add them together, which results in $\frac{3}{4}$.
+
+Similarly, if you want to subtract fractions, you need to find a common denominator. For example, if you want to subtract $\frac{1}{2}$ from $\frac{3}{4}$, you need to find a common denominator. In this case, a common denominator is 4, so you can rewrite $\frac{1}{2}$ as $\frac{2}{4}$. Then, you can subtract them, which results in $\frac{1}{4}$.
+
+Now, multiplying fractions is a bit different. Rather than finding a common denominator, you can just multiply the numerators together and the denominators together. For example, if you want to multiply $\frac{1}{2}$ and $\frac{3}{4}$, you can multiply the numerators together (1 and 3) and the denominators together (2 and 4), resulting in $\frac{3}{8}$. Not all fraction multiplication will lead to such tidy results. For instance, if you multiply $\frac{3}{8}$ and $\frac{4}{9}$, you'll get $\frac{12}{72}$. This outcome is a little more unwieldy, so it's worth simplifying the fraction down to $\frac{1}{6}$. This simplification is done by dividing both the numerator and denominator by their greatest common **factor**[^2], which in this case is 12.
+
+[^2]: When I refer to a factor, I mean a number by which the original is divisible. In other words, a factor of 12 is a number that can be multiplied by 12 to get another number. For example, 1, 2, 3, 4, 6, and 12 are all factors of 12. The greatest common factor is the largest number that divides both numbers evenly. In this case, the greatest common factor of 12 and 72 is 12.
+
+Finally, dividing fractions is similar to multiplying fractions, but with a twist. Instead of dividing the numerators and denominators directly, you need to multiply the first fraction by the **reciprocal** of the second fraction. By reciprocal, I mean the reverse of the original fraction. If I have $\frac{1}{2}$, then its reciprocal is $\frac{2}{1}$ For example, if you want to divide $\frac{1}{2}$ by $\frac{3}{4}$, you can multiply $\frac{1}{2}$ by $\frac{4}{3}$. This results in $\frac{2}{3}$[^3].
+
+[^3]: Or $\frac{4}{6}$, which simplifies to $\frac{2}{3}$. 
+
+Before I move on to discussing decimals, I'll show you how to convert fractions to decimals and percentages. First, to convert to a decimal, you can divide the numerator by the denominator. In other words, $\frac{1}{2}$ is equal to 0.5. In other words, you can think of fractions as undivided equations. To convert to a percentage, you can multiply the decimal by 100. In other words, 0.5 is equal to 50%. 
+
+### Decimals
+
+Like fractions, decimals are numbers that represent a part of a whole. However, decimals are written as a whole number followed by a decimal point and then a fractional part. For example, 0.5 is equal to $\frac{1}{2}$. You can add, subtract, multiply, and divide decimals in the same way you would with fractions.
