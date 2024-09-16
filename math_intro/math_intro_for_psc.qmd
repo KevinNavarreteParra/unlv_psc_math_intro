@@ -60,4 +60,6 @@ Before I move on to discussing decimals, I'll show you how to convert fractions 
 
 ### Decimals
 
-Like fractions, decimals are numbers that represent a part of a whole. However, decimals are written as a whole number followed by a decimal point and then a fractional part. For example, 0.5 is equal to $\frac{1}{2}$. You can add, subtract, multiply, and divide decimals in the same way you would with fractions.
+Like fractions, decimals are numbers that represent a part of a whole. However, decimals are written as a whole number followed by a decimal point and then a fractional part. For example, 0.5 is equal to $\frac{1}{2}$. You can add, subtract, multiply, and divide decimals in the same way you would with fractions. 
+
+### Percentages
