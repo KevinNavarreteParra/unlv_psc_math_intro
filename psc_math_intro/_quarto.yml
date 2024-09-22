@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "Introduction to Math for Political Science"
+  author: "Kevin Navarrete-Parra"
+  date: "9/21/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - arithmetic.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  pdf:
+    documentclass: scrreprt
+
+
+

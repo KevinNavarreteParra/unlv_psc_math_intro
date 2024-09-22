@@ -1,0 +1,37 @@
+# Arithmetic
+
+I know I said earlier that I assume basic arithmetic knowledge, but I think it's worth going over some things anyway to ensure everyone is on the same page. However, I won't spend too much time on this section, as I think most people will be familiar with these concepts. Consequently, this section should primarily serve as a refresher. If you're not already familiar with these concepts, don't worry! I'll explain them as best as I can, though I recommend seeking out additional resources if you're still having trouble.
+
+## Fractions, Decimals, and Percentages
+
+Fractions, decimals, and percentages are all ways of representing numbers. They're all related to each other, and you can convert between them pretty easily. Here's a quick rundown of each:
+
+### Fractions
+
+Fractions are numbers that represent a part of a whole. They're written as a numerator over a denominator, like so:
+
+$$
+\frac{1}{2}
+$$
+
+which corresponds to one-half. The **numerator** is the number on top, and the **denominator** is the number on the bottom. The numerator tells you how many parts you have, and the denominator tells you how many parts make up the whole.
+
+If you want to add fractions together, you need to make sure they have the same denominator. For example, if you want to add $\frac{1}{2}$ and $\frac{1}{4}$, you need to find a common denominator. In this case, a common denominator is 4, so you can rewrite $\frac{1}{2}$ as $\frac{2}{4}$. Then, you can add them together, which results in $\frac{3}{4}$.
+
+Similarly, if you want to subtract fractions, you need to find a common denominator. For example, if you want to subtract $\frac{1}{2}$ from $\frac{3}{4}$, you need to find a common denominator. In this case, a common denominator is 4, so you can rewrite $\frac{1}{2}$ as $\frac{2}{4}$. Then, you can subtract them, which results in $\frac{1}{4}$.
+
+Now, multiplying fractions is a bit different. Rather than finding a common denominator, you can just multiply the numerators together and the denominators together. For example, if you want to multiply $\frac{1}{2}$ and $\frac{3}{4}$, you can multiply the numerators together (1 and 3) and the denominators together (2 and 4), resulting in $\frac{3}{8}$. Not all fraction multiplication will lead to such tidy results. For instance, if you multiply $\frac{3}{8}$ and $\frac{4}{9}$, you'll get $\frac{12}{72}$. This outcome is a little more unwieldy, so it's worth simplifying the fraction down to $\frac{1}{6}$. This simplification is done by dividing both the numerator and denominator by their greatest common **factor**[^2], which in this case is 12.
+
+[^2]: When I refer to a factor, I mean a number by which the original is divisible. In other words, a factor of 12 is a number that can be multiplied by 12 to get another number. For example, 1, 2, 3, 4, 6, and 12 are all factors of 12. The greatest common factor is the largest number that divides both numbers evenly. In this case, the greatest common factor of 12 and 72 is 12.
+
+Finally, dividing fractions is similar to multiplying fractions, but with a twist. Instead of dividing the numerators and denominators directly, you need to multiply the first fraction by the **reciprocal** of the second fraction. By reciprocal, I mean the reverse of the original fraction. If I have $\frac{1}{2}$, then its reciprocal is $\frac{2}{1}$ For example, if you want to divide $\frac{1}{2}$ by $\frac{3}{4}$, you can multiply $\frac{1}{2}$ by $\frac{4}{3}$. This results in $\frac{2}{3}$[^3].
+
+[^3]: Or $\frac{4}{6}$, which simplifies to $\frac{2}{3}$. 
+
+Before I move on to discussing decimals, I'll show you how to convert fractions to decimals and percentages. First, to convert to a decimal, you can divide the numerator by the denominator. In other words, $\frac{1}{2}$ is equal to 0.5. In other words, you can think of fractions as undivided equations. To convert to a percentage, you can multiply the decimal by 100. In other words, 0.5 is equal to 50%. 
+
+### Decimals
+
+Like fractions, decimals are numbers that represent a part of a whole. However, decimals are written as a whole number followed by a decimal point and then a fractional part. For example, 0.5 is equal to $\frac{1}{2}$. You can add, subtract, multiply, and divide decimals in the same way you would with fractions. 
+
+### Percentages
