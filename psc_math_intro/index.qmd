@@ -1,7 +1,17 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+>*Considering how many fools can calculate, it is surprising that it should be thought either a difficult or a tedious task for any other fool to learn how to master the same tricks.*
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+>*Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics--and they are mostly clever fools--seldom take the trouble to show you how easy the calculations are. On the contrary, they seem to desire to impress you with their tremendous cleverness by going about it in the most difficult name.*
 
-@test-key
+>*Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thorougly, and the rest wil follow. What one fool can do, another can.* [@thompson1910calc]
+
+The quote above is from the preface to a famous introductory calculus book. Although it's focus is naturally on making students less afraid of learning calculus, I've included it here in the preface to this document because I think it's just as applicable to learning the math and research methods necessary for quantitative political science. The point I think gets across in the text above--and it's a point that is important to make as explicit as possible--is that learning math is doable, especially when you learn to break things down to their component parts. It is in this spirit that I intend to write this guide; I want you to understand every component so that you can understand the whole. 
+
+It is one thing to know that 
+
+$$
+\mu = \frac{1}{N} \sum_{i = 1}^{N}x_i
+$$
+
+is the equation to calculate the average. However, that's not particularly useful, and I'd be doing a disservice if I treated the equation as if it were easy to follow on face value. It's more useful to know that $\mu$, pronounced "mew", stands for the mean; multiplying by $\frac{1}{N}$ is the same as dividing by the number of terms $N$; $\sum_{i = 1}^{N}$ is the summation operator, meaning that you add everything from the first term ($i=1$) to the last one ($N$); and $x_i$ corresponds to the value of each term ($x$) throughout index $i$. It's okay if the terms in the equation above don't make full sense yet, I'll explain everything more thoroughly in what will come. 
